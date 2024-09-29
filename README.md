@@ -5,6 +5,8 @@ Sample holder designed to be easily manufactured using common tools or 3D printe
 
 LAB-001-010 - Sample holder for slabs with > 0.8 mm thickness and > 9 mm wide. Can be applied in optical measurments in transmission and reflection.
 
+-----------
+
 to be added:
 
 LAB-001-020 - Sample holder for anisotropic thick samples. Design to allow sample roll adjust, samples front surface reference and reflection measurments in +/-90º.
